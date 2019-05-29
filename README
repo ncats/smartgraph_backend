@@ -1,0 +1,28 @@
+* Parts of the smartgraph-backend source code and the included KNIME workflow rely on extenal libraries or APIs that are not distributed under the MIT license.
+
+Such parts are:
+
+- Indigo Toolkit [ https://lifescience.opensource.epam.com/indigo/ ]: GNU General Public License version 3 (GNU GPL v3) license, please refer to the GNU GPL v3 licensing terms [ https://www.gnu.org/licenses/gpl-3.0.en.html ].
+
+- KNIME [ https://www.knime.com/ ]: GNU General Public License version 3 (GNU GPL v3) license, please refer to the GNU GPL v3 licensing terms [ https://www.gnu.org/licenses/gpl-3.0.en.html ].
+
+- JDBC driver from Oracle for PostgreSQL and Neo4j connections [https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html]: Oracle's license, please refer to Oracle licensing terms [ https://www.oracle.com/technetwork/topics/jdbc-faq-090281.html ].
+
+
+- Gene Symbol - UniProt mapping [ https://www.uniprot.org/help/license ]: Creative Commons Attribution 4.0 International CC BY 4.0 [ https://creativecommons.org/licenses/by/4.0/ ]
+
+
+
+* The compiled smartgraph-backend code connects to databases and data sources that are not distributed under MIT license.
+
+These are:
+
+
+- SIGNOR db 2.0 [ https://signor.uniroma2.it/user_guide.php ]: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) [ https://creativecommons.org/licenses/by-sa/4.0/ ]
+
+- ChEMBL DB version 24 [ https://chembl.gitbook.io/chembl-interface-documentation/about ]: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) [ https://creativecommons.org/licenses/by-sa/3.0/ ]
+
+- PostgreSQL database: PostgreSQL License [ https://www.postgresql.org/about/licence/ ]
+
+- Neo4j database (community edition): GNU General Public License version 3 (GNU GPL v3) license, please refer to the GNU GPL v3 licensing terms [ https://www.gnu.org/licenses/gpl-3.0.en.html ].
+
