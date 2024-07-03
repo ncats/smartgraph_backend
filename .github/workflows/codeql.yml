@@ -59,6 +59,7 @@ jobs:
 
     - name: install java and maven
       run: |
+        apt install -y openjdk-17-jdk
         apt install -y maven
 
     # Initializes the CodeQL tools for scanning.
